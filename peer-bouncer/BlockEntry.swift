@@ -1,3 +1,11 @@
+//
+//  BlockEntry.swift
+//  peer-bouncer
+//
+//  Created by Christian Linse on 20.09.25.
+//
+
+
 import SwiftUI
 
 struct BlockEntry: Identifiable {
